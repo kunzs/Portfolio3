@@ -1,2 +1,2 @@
-# Portfolio3
-Informatik-Portfolio Semester 6
+# Margatsni
+Eine neue Social-Media-Plattform die dem jetztigen Instagram ähnelt
